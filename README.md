@@ -1,10 +1,10 @@
 # ECOMDAVID LLC — Website
 
-Static website for Ecom David: Google Merchant Center approval and Google Ads management for eCommerce stores.
+Static website for Ecom David: Google Merchant Center and Google Ads services for eCommerce stores.
 
 Plain HTML/CSS/JS with no build step.
 
-- `index.html`, `services.html`, `about.html`, `contact.html`, `privacy.html`, `terms.html`, `404.html`
+- `index.html`, `services.html`, `about.html`, `contact.html`, `privacy.html`, `terms.html`, `refund-policy.html`, `404.html`
 - `styles.css`: all styling
 - `script.js`: mobile menu and contact form
 - `vercel.json`: clean URLs (`/contact` instead of `/contact.html`)
